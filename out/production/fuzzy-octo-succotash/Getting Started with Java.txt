@@ -1,0 +1,15 @@
+1. java setup-cmd
+2. Shortcuts to java code in intellij/Vscode.
+3. Object
+4. clASS
+5.Inheritence
+6.Interface
+7. Jav Basics - SE
+8. Arrays, multi
+9.var type
+10. instance of
+11. CLASS
+12.Constructor
+13. Pass by value, with reference...how
+14.Using objects
+15. Garbage Collection
